@@ -1,2 +1,2 @@
 # hello-world
-test
+This is a test. This is the hello-world initial branch.
